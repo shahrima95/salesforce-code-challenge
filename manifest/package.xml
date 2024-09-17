@@ -29,6 +29,10 @@
 		<name>CustomLabels</name>
 	</types>
 	<types>
+		<members>*</members>
+		<name>CustomObjectTranslation</name>
+	</types>
+	<types>
 		<members>Account</members>
 		<members>Account</members>
 		<members>Application__c</members>
